@@ -24,6 +24,8 @@ https://arxiv.org/pdf/1411.1784.pdf
 
 ## Checking Training Results
 
+At the repository root directory, execute the following command.
+
 ```shell
 % ./run_tensorboard.sh
 ```
